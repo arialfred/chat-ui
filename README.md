@@ -1,8 +1,21 @@
-# chat-ui
+# Getting Started
 
-> Real-time chat application
+## Prerequisites
 
-## Build Setup
+- npm
+- git
+
+## Cloning the repository
+
+Use Git from command line:
+
+```
+git clone https://github.com/arialfred/chat-ui.git
+```
+
+or use some visual Git client, Sourcetree for example.
+
+## Building and running the application
 
 ``` bash
 # install dependencies
@@ -15,4 +28,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Before running the UI application make sure that [the backend application](https://github.com/arialfred/chat-backend) is up and running.
