@@ -93,7 +93,6 @@ export default {
       }
       this.message = "";
       this.$refs.messageField.focus();
-      this.$vuebar.scrollToBottom();
     },
     signOut: function () {
       this.disconnect();
